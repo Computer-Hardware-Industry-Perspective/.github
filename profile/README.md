@@ -16,10 +16,10 @@
 컴퓨터가 세상을 어떻게 움직이는지,  
 눈에 보이지 않는 기술들이 어떤 원리로 동작하는지 이해하는 것을 목표로 합니다.
 
-> 코딩만 알던 코덕에서, 하드웨어까지 이해하는 컴덕으로.  
-> 눈앞의 컴퓨터를 해부하며, '컴맹 탈출'에 도전합니다.
+> 코딩만 알던 코덕에서, 하드웨어까지 이해하는 컴덕이 되기 위해
 > 
 > ![IMG_6123](https://github.com/user-attachments/assets/068d36fc-1d3b-46e1-bfc8-143c4f50ca3d)
+> ![IMG_6579](https://github.com/user-attachments/assets/d74fba80-2f7e-4f5d-8d95-6cc02ef4e427)
 
 ---
 
