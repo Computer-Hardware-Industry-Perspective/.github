@@ -9,7 +9,7 @@
 ![3](https://github.com/user-attachments/assets/5036e2a8-1139-466a-89dc-95e16d300030)
 
 
-CHIP(Computer Hardware Industry Perspective)은 컴퓨터 하드웨어에 관심이 있는 사람들이 모여,<br />
+칩스는 컴퓨터 하드웨어에 관심이 있는 사람들이 모여,<br />
 기초부터 최신 기술까지 함께 배우고 경험하는 소모임입니다.
 
 CPU, GPU, 메모리, 저장장치, 발열·냉각 구조, 반도체 제조 공정 등<br />
